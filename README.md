@@ -8,3 +8,5 @@ SRPN is a reverse Polish notation calculator with the extra feature that all ari
 1. The task was to write a program which matches the functionality of SRPN as closely as possible. This included not adding or enhancing existing features.
 
 2. The legacy program and the example code needed to edit were provided.
+
+This assignment was awarded 75% - a distinction.
